@@ -1,9 +1,9 @@
-# What have been changed:
+# What have been changed (integrate chatGPT:
 
  * add chatGPT response to streaming-client-api.js
  * you need to add both your api key in api.json and openai api key in streaming-client-api.js
 
-#Edit the project from the following:
+# The original project was from the following (no chatGPT version):
 
 # Streaming Live Demo by D-ID and modified by JJM
 [https://youtu.be/5X_sse80arc](https://youtu.be/JUYIZD-p2w8)
