@@ -1,4 +1,4 @@
-# What have been changed (integrate chatGPT:
+# What have been changed (integrate chatGPT):
 
  * add chatGPT response to streaming-client-api.js
  * you need to add both your api key in api.json and openai api key in streaming-client-api.js
